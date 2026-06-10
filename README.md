@@ -36,7 +36,9 @@ https://github.com/narassystem/naras-behavioural-drift-eval
 
 ## 🌱 Background
 
-Originally from a communication, safeguarding, and human development background, now applying these perspectives to AI interaction and alignment research.
+Originally from leadership, safeguarding, communication,
+and human development practice, now applying these perspectives
+to AI interaction, governance, and developmental alignment research.
 
 Recently completed the Google Project Management Certificate by Google & Coursera, with focus areas including:
 
